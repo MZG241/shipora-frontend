@@ -20,6 +20,8 @@ export const metadata: Metadata = {
     "logiciel logistique",
     "plateforme logistique",
     "gestion des expéditions",
+    "gestion des expéditions application",
+    "gestion des expéditions Gabon",
     "gestion des colis",
     "suivi colis",
     "tracking colis",
